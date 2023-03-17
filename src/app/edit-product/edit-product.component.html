@@ -1,0 +1,7 @@
+<p>
+  edit-product works!
+</p>
+<ng-container *ngIf="product$ | async as product">
+  <button class="btn btn-danger" (click)="remove(product)">Remove Product</button>
+  <app-product-form [product]="product" (save)="submit($event)"></app-product-form>
+</ng-container>

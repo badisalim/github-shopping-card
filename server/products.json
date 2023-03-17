@@ -1,0 +1,52 @@
+<<<<<<< HEAD
+{"data":[{"id":1,"name":"Apple","quantity":3,"price":1.1},{"id":2,"name":"Orange","quantity":2,"price":1.99}]}
+=======
+{
+  "data": [{
+    "id": 1,
+    "name": "Apple",
+    "quantity": 3,
+    "price": 1.1
+  }, {
+    "id": 2,
+    "name": "Orange",
+    "quantity": 2,
+    "price": 1.99
+  }, {
+    "id": 3,
+    "name": "Melon",
+    "quantity": 1,
+    "price": 3.22
+  }, {
+    "id": 4,
+    "name": "Apple2",
+    "quantity": 3,
+    "price": 1.1
+  }, {
+    "id": 3,
+    "name": "Melon2",
+    "quantity": 1,
+    "price": 3.22
+  }, {
+    "id": 4,
+    "name": "milch",
+    "quantity": 5,
+    "price": 6
+  }, {
+    "id": 5,
+    "name": "bread",
+    "quantity": 10,
+    "price": 5
+  }, {
+    "id": 7,
+    "name": "",
+    "quantity": null,
+    "price": null
+  }, {
+    "id": 8,
+    "name": "",
+    "quantity": null,
+    "price": null
+  }]
+}
+>>>>>>> 3a5f5c8e4c422da5262436d67e71ecc0674e41bd
